@@ -1,2 +1,2 @@
-# R-for-Financial-Analysis
-This repository onctains
+# R for Financial Analysis
+This repository contains
